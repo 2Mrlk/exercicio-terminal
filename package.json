@@ -1,0 +1,14 @@
+{
+"name": "padaria-doce-sabor",
+"version": "1.0.0",
+"description": "Sistema de gerenciamento para padaria",
+"main": "index.js",
+"scripts": {
+"start": "node index.js",
+"dev": "node-watch index.js",
+"info": "node ../Exercicio1/exercicio-sistema/exercicio-sistema.js",
+"calc": "node ../Exercicio2/calculadora.js/calculadora.js"
+},
+"author": "Seu Nome Aqui",
+"license": "MIT"
+}
